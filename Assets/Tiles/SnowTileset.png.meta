@@ -22,7 +22,7 @@ TextureImporter:
     second: topcenter1
   - first:
       213: -4008586409878977265
-    second: sloppymess_6
+    second: topright1
   - first:
       213: -7840755983755641017
     second: topU
@@ -76,7 +76,7 @@ TextureImporter:
     second: botcenter1
   - first:
       213: 3951142281563471347
-    second: sloppymess_24
+    second: botright1
   - first:
       213: 842438769652101007
     second: botU
@@ -459,7 +459,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sloppymess_6
+      name: topright1
       rect:
         serializedVersion: 2
         x: 224
@@ -837,7 +837,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sloppymess_24
+      name: botright1
       rect:
         serializedVersion: 2
         x: 224
