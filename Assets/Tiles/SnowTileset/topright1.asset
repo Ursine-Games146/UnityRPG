@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: sloppymess_6
+  m_Name: topright1
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: -4008586409878977265, guid: ad311316360443b45a0b85177a1731f8,
     type: 3}
